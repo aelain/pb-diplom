@@ -21,7 +21,7 @@
 
 ## Результат
 
-[Код](https://github.com/aelain/pb-diplom/logic.js)
+[Код](https://github.com/aelain/pb-diplom/blob/main/logic.js)
 
 [Готовый проект](https://aelain.github.io/pb-diplom/)
 
